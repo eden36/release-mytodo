@@ -1,9 +1,9 @@
 {
-  "version": "1.1.5",
-  "android_url": "https://github.com/eden36/release-mytodo/releases/download/v1.1.5/my-todo-android-v1.1.5.apk",
-  "android_sha256": "4d776b75b5ff254fb82fd03f2029b943aa6e7021528766778412e77db56cf09e",
-  "windows_url": "https://github.com/eden36/release-mytodo/releases/download/v1.1.5/my-todo-windows-v1.1.5-setup.exe",
-  "windows_sha256": "a93a3385d76406a0bcbe44d364143343dd2e46f79604c4ce9a71400178d14cfe",
+  "version": "1.1.6",
+  "android_url": "https://github.com/eden36/release-mytodo/releases/download/v1.1.6/my-todo-android-v1.1.6.apk",
+  "android_sha256": "c1c5bacdd32986c4ce23edcd438d593dff00981203a100e1682516d0a065998b",
+  "windows_url": "https://github.com/eden36/release-mytodo/releases/download/v1.1.6/my-todo-windows-v1.1.6-setup.exe",
+  "windows_sha256": "a5ba9de4e9adbc16a54a1d38f8a291996aac5d689316cac8492572c904a21c00",
   "changelog": "",
   "released_at": "2026-10-15"
 }
