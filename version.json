@@ -1,11 +1,11 @@
 {
-  "version": "1.1.24",
-  "android_url": "https://github.com/eden36/release-mytodo/releases/download/v1.1.24/my-todo-android-v1.1.24.apk",
-  "android_sha256": "fbb4dc89299cfdbd11154fab7f5cf16f5ea67e10f725d93ea0a85ea050c0f228",
-  "windows_url": "https://github.com/eden36/release-mytodo/releases/download/v1.1.24/my-todo-windows-v1.1.24-setup.exe",
-  "windows_sha256": "9bccdbf21e307679337d0a5b5c4a2fa9a5a3ff6308b4e92b59bebce9638b8e88",
+  "version": "1.1.25",
+  "android_url": "https://github.com/eden36/release-mytodo/releases/download/v1.1.25/my-todo-android-v1.1.25.apk",
+  "android_sha256": "68d0625ba22fdb83f5d7700008a71a837ba27186a0afcd55b9d624ef351aafa2",
+  "windows_url": "https://github.com/eden36/release-mytodo/releases/download/v1.1.25/my-todo-windows-v1.1.25-setup.exe",
+  "windows_sha256": "ceb72f14c3e4cfc4a84d57e81694378faebb911d009b8d2024d3bfdd951e3f20",
   "changelog": "",
-  "released_at": "2026-11-08",
+  "released_at": "2026-11-09",
   "min_supported_version": "1.1.9",
   "force_update_reason": "当前应用版本过低，请更新后继续使用"
 }
